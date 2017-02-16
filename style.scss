@@ -9,9 +9,9 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-// FONT IMPORTS 
-@import url('https://fonts.googleapis.com/css?family=Raleway');
-@import url('https://fonts.googleapis.com/css?family=Lato');
+// FONT IMPORTS
+// @import url('https://fonts.googleapis.com/css?family=Raleway');
+// @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 /**************/
 /* BASE RULES */
@@ -23,8 +23,7 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4;
-  font-family: 'Lato', $helvetica;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -36,7 +35,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Raleway', $helveticaNeue;
+  font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
