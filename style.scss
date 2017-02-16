@@ -9,6 +9,10 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+// FONT IMPORTS 
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -19,19 +23,20 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4;
+  font-family: 'Lato', $helvetica;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: 'Raleway', $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
