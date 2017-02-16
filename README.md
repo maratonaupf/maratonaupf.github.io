@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Website do Clube de Programação UPF
 
-You can use the [editor on GitHub](https://github.com/maratonaupf/maratonaupf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Você pode usar o [editor no GitHub](https://github.com/maratonaupf/maratonaupf.github.io/edit/master/README.md) para manter e prever o conteúdo para o seu website em arquivos Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sempre que você _commitar_ para este repositório, GitHub Pages vai executar [Jekyll](https://jekyllrb.com/) para reconstruir as páginas em seu site, a partir do conteúdo dos seus arquivos Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Ela inclui convenções para
 
 ```markdown
-Syntax highlighted code block
+Trecho de código com destaque de sintaxe
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Lista
+- Com
+- Marcadores
 
-1. Numbered
-2. List
+1. Lista
+2. Enumerada
 
-**Bold** and _Italic_ and `Code` text
+Texto em **Negrito**, _Itálico_ e `Monoespaçado (útil para códigos-fonte)`
 
-[Link](url) and ![Image](src)
+[Link](url) e ![Imagem](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para mais detalhes, consulte [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Temas Jekyll
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maratonaupf/maratonaupf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Seu site GitHub Pages vai usar o layout e estilos do tema Jekyll que você selecionou nas suas [configurações de repositório](https://github.com/maratonaupf/maratonaupf.github.io/settings). O nome deste tema estará salvo no arquivo de configuração Jekyll `_config.yml`.
 
-### Support or Contact
+### Suporte ou Contato
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Problemas com o GitHub Pages? Consulte a [documentação](https://help.github.com/categories/github-pages-basics/) ou [contate o suporte](https://github.com/contact) e eles te ajudarão a resolvê-lo.
