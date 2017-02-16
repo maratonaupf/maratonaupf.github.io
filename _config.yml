@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Clube de Programação
+name: Clube de Programação UPF
 
 # Short bio or description (displayed in the header)
 description: Treinando alunos para competições de programação
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github: maratonaupf
   instagram:
   linkedin:
   pinterest:

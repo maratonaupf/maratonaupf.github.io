@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Sobre o Clube de Programação
+title: Sobre o Clube de Programação UPF
 permalink: /about/
 ---
 
-O Clube de Programação é uma iniciativa de alunos dos cursos da área de 
+O Clube de Programação UPF é uma iniciativa de alunos dos cursos da área de 
 TI da Universidade de Passo Fundo. Nosso objetivo é reunir e treinar alunos 
 para competições de programação como a Maratona de Programação da SBC e a 
 Olimpíada Brasileira de Informática (OBI), e assim estimular a cultura de 
