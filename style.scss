@@ -9,10 +9,6 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-// FONT IMPORTS
-// @import url('https://fonts.googleapis.com/css?family=Raleway');
-// @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-
 /**************/
 /* BASE RULES */
 /**************/
@@ -21,21 +17,26 @@ html {
   font-size: 100%;
 }
 
+head {
+  background: $wine;
+  color: $white
+}
+
 body {
   background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 16px/1.4 $text-font;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 840px;
   padding: 0 10px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $title-font;
   color: $darkerGray;
   font-weight: bold;
 
@@ -165,6 +166,7 @@ img {
   @include mobile {
     text-align: center;
   }
+//background: $wine;
 }
 
 .site-avatar {
@@ -186,7 +188,7 @@ img {
 
 .site-info {
   float: left;
-
+  
   @include mobile {
     float: none;
     display: block;
@@ -198,7 +200,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $title-font;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -217,7 +219,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $title-font;
   font-size: 18px;
 
   @include mobile {

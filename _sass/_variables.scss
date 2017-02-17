@@ -5,6 +5,7 @@
 
 // Colors
 $blue: #4183C4;
+$wine: #991133;
 
 // Grays
 $black: #000;
@@ -14,14 +15,29 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
+/*************/
+/* Typography */
+/*************/
+
+// FONT IMPORTS
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
+$title-font: 'Cabin', $helveticaNeue;
+$text-font: 'Open Sans', 'Noto Sans', 'Droid Sans', $helvetica;
+// $heading-font: $base-font;
+// $caption-font: $base-font;
+$code-font: monospace;
+$alt-font: serif;
+
 // Mobile breakpoints
 @mixin mobile {
-  @media screen and (max-width: 640px) {
+  @media screen and (max-width: 840px) {
     @content;
   }
 }
