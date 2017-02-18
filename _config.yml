@@ -9,7 +9,7 @@ name: Clube de Programação UPF
 description: Treinando alunos para competições de programação
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: https://raw.githubusercontent.com/maratonaupf/maratonaupf.github.io/master/images/maratonaupf-logo.png
 
 #
 # Flags below are optional
@@ -19,7 +19,7 @@ avatar:
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: maratonaUPF
   flickr:
   github: maratonaupf
   instagram:
