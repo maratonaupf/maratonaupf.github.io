@@ -206,6 +206,17 @@ img {
   letter-spacing: 1px;
 }
 
+.site-name > a {
+  &:hover, &:active {
+    color: $white;
+    text-shadow: 0px 0px 10px $white;
+  }
+  @include mobile {
+    margin: 0 10px;
+    color: $white;
+  }
+}
+
 .site-description {
   margin: -5px 0 0 0;
   color: $lightGray;
@@ -235,10 +246,13 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-
+    &:hover, &:active {
+      color: $white;
+      text-shadow: 0px 0px 10px white;
+    }
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $white;
     }
   }
 }
