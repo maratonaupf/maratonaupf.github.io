@@ -166,7 +166,6 @@ img {
   @include mobile {
     text-align: center;
   }
-//background: $wine;
 }
 
 .site-avatar {
@@ -226,6 +225,50 @@ img {
     margin: 3px 0;
   }
 }
+
+
+/* nav e dropdown */
+
+.site-navigation {
+  margin-top: 10px;
+  display: inline-flex;
+}
+.site-navigation .menu {
+  padding: 0px;
+}
+.site-navigation li {
+  display: block;
+  float: left;
+  position: relative;
+}
+.site-navigation li a {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.site-navigation li:hover {
+  cursor: pointer;
+}
+.site-navigation ul li ul {
+  background: $wine;
+  visibility: hidden;
+  position: absolute;
+  padding: 10px;
+  width: 140px;
+}
+.site-navigation ul li ul li {
+  float: inherit;
+  padding: 5px;
+}
+.site-navigation ul li ul li a {
+  margin: auto;
+}
+.site-navigation ul li:hover > ul,
+.site-navigation ul li ul:hover {
+  visibility: visible;
+}
+
 
 nav {
   float: right;
