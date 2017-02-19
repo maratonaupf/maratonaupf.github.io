@@ -19,7 +19,7 @@ Elas **não** irão concorrer as vagas da Maratona da SBC, querem vir apenas pel
 | 09:00 - 12:00  | Meia-Maratona |
 
 
-Os competidores devem seguir as regras da [Maratona de Programação da SBC]("http://maratona.ime.usp.br/").  
+Os competidores devem seguir as regras da [Maratona de Programação da SBC]( http://maratona.ime.usp.br/).  
 Os times terão à sua disposição um computador e todo o material impresso ou escrito que desejarem levar. 
 Entretanto, não poderão fazer uso de material armazenado em meio digital ou ter acesso à Internet durante a competição.
 Maiores informações, entrar em contato com o [Prof. Rebonatto](/images/mtr.png).
