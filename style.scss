@@ -341,6 +341,11 @@ nav {
   background-color: $lightGray;
 }
 
+img[src$="imgcenter"] {
+  display: block;
+  margin: 0 auto;
+}
+
 footer {
   padding: 20px 0;
   text-align: center;
