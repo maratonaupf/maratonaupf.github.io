@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ano novo, cara nova!
-tags:
+categories:
 - noticias
 ---
 
