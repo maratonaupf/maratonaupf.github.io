@@ -12,9 +12,8 @@ irá ocorrer dia **10 de setembro**, em Erechim.
 Já registramos interesse de equipes de outras Instituições de Ensino para participar. 
 Elas **não** irão concorrer as vagas da Maratona da SBC, querem vir apenas pela integração e desafio.
 
-| :-------------------------:|
-| **Programação:**               |
-| :------------: |:-------------:|
+|         **Programação**        |
+| :------------- | -------------:|
 | 08:00 - 08:15  | Abertura      |
 | 08:15 - 08:45  | Aquecimento   |
 | 09:00 - 12:00  | Meia-Maratona |
