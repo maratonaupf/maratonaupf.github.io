@@ -2,7 +2,7 @@
 layout: post
 title: Introdução à Programação Competitiva
 categories:
-- oficinas
+- videos
 ---
 
 Tá começando a treinar para a Maratona e para a OBI? Aprendendo algoritmos? 
