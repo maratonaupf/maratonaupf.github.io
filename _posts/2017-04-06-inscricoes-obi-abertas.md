@@ -5,7 +5,7 @@ categories:
 - noticias
 ---
 
-As inscrições para a <a href="http://olimpiada.ic.unicamp.br/" target="_blank">Olimpíada Brasileira de Informática</a> já estão abertas!
+As inscrições para a <a href="http://olimpiada.ic.unicamp.br/" target="_blank">Olimpíada Brasileira de Informática</a> já estão abertas, e são *gratuitas*!
 Se você é acadêmico da UPF e deseja participar, envie e-mail para o Prof. Eder Pazinatto (ederpazinatto [at] upf br) com os seguintes dados:
 
 - Nome completo
