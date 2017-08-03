@@ -12,6 +12,7 @@ irá ocorrer dia **10 de setembro**, em Erechim. A prova teve 6 problemas, e dur
 
 O caderno de problemas da Meia-Maratona, bem como as soluções dos problemas e dicas, estão disponíveis <a href="https://github.com/maratonaupf/codigos/tree/master/MeiaMaratonaUPF2016" target="_blank">neste link</a>.
 
+
 As equipes _Skynet dos Pampas_, _Schrödinger's Code_ (anteriormente _Erlang_) e _Hadoop_ estão classificadas para ir a Erechim. 
 Segue o placar final da competição:
 

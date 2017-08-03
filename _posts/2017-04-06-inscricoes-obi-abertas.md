@@ -14,5 +14,6 @@ Se você é acadêmico da UPF e deseja participar, envie e-mail para o Prof. Ede
 
 A competição ocorrerá numa sexta-feira, dia 12 de maio, às 14:00, no LCI do campus I da UPF. Boa sorte a todos os competidores! \o/
 
+
 Curta a página no Facebook: <a href="https://facebook.com/maratonaupf" target="_blank">Clube de Programação UPF</a>
 

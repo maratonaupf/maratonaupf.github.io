@@ -9,6 +9,7 @@ Quer programar e treinar para a Maratona ou para a OBI, mas não quer instalar G
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/A5uxoFAI6p0' frameborder='0' allowfullscreen></iframe></div>
 
+
 Inscreva-se no canal do Clube!
 
 Curta a página no Facebook: [Clube de Programação UPF](https://facebook.com/maratonaupf)

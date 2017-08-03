@@ -14,6 +14,7 @@ As oficinas são abertas a todos os estudantes de Passo Fundo e região
 interessados em participar da OBI, cuja primeira fase será dia **12 de maio**,
 das 14:00 às 16:00. Não é necessário inscrição para as oficinas.
 
+
 As inscrições para a OBI são gratuitas e podem ser feitas enviando email para o
 Prof. Eder Pazinatto (ederpazinatto [at] upf br), contendo os seguintes dados:
 

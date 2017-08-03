@@ -14,6 +14,7 @@ sempre depois de alguma edição e adaptação.
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/P9IEnE6B8R4' frameborder='0' allowfullscreen></iframe></div>
 
+
 Inscreva-se no canal do Clube!
 
 Curta a página no Facebook: [Clube de Programação UPF](https://facebook.com/maratonaupf)

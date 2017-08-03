@@ -11,6 +11,7 @@ competições de programação como a Maratona e a OBI, conteúdos básicos para
 está iniciando nos cursos, e pequenas noções do ambiente computacional 
 GNU/Linux, usando a distribuição Ubuntu 16.04.
 
+
 As transparências usadas na oficina, que incluem links de materiais e portais de
 programação, podem ser acessadas no link abaixo:
 
