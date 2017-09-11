@@ -21,7 +21,7 @@ Participaram também as seguintes equipes da UPF, cada uma com 2 problemas resol
 
 - GP++, em 13º lugar.
 
-![](/images/gpmaismais-PrimeiraFase2017.jpg "Da esquerda para a direita: Kelvyn Krug, Gabriel Consalter e Chrystian Munz.")
+![](/images/gpmaismais-PrimeiraFase2017.jpg "Da esquerda para a direita: Chrystian Munz, Kelvyn Krug e Gabriel Consalter.")
 *Foto oficial da equipe GP++. Créditos: facebook.com/neilor.tonin*
 
 Parabéns a todos os times da UPF pelo desempenho e pela participação! Ficamos na torcida pela classificação da **Skynet dos Pampas** para a Final Nacional!
