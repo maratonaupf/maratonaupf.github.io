@@ -11,7 +11,7 @@ Os horários definidos até o presente momento são:
 
 **Terça-feira, 18:00 -- 19:00, LCI 01;**
 
-**Quinta-feira, 19:00 -- 22:00, sala a definir.**
+**Quinta-feira, 19:00 -- 22:00, sala 106 do prédio B5.**
 
 Em breve, será disponibilizado o Calendário de Competições de Programação, para fins de acompanhamento e preparação para as mesmas.
 
