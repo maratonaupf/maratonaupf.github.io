@@ -13,13 +13,9 @@ A oficina teve duração de 1 hora. Na primeira meia hora, foi abordada a import
 
 A importância da digitação rápida decorre de situações rotineiras em que competidores ou times concorrentes estão empatados no número de problemas resolvidos. Neste caso, saber digitar rápido é tão importante como saber resolver os problemas. 
 
-O segundo momento da oficina abordou a técnica `split()` para strings em Python, bem como a conversão destas strings para números inteiros, assim permitindo a leitura de mais de uma variável em uma mesma linha. 
+O segundo momento da oficina abordou a técnica `split()` para strings em Python, bem como a conversão destas strings para números inteiros, assim permitindo a leitura de mais de uma variável em uma mesma linha. Ainda, foi abordado o *operador ternário* em Python, bastante útil para escrever uma simples expressão *if-else*. O código-fonte do exercício utilizado [URI 2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) será disponibilizado aqui em breve.
 
-Ainda, foi abordado o *operador ternário* em Python, bastante útil para escrever uma simples expressão *if-else*. O código-fonte do exercício utilizado [URI 2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) será disponibilizado aqui em breve.
-
-A atividade de quinta-feira, às 19:00, será uma competição simulada. É recomendada a presença de todos os participantes do Clube. 
-
-Caso você não possa comparecer, inscreva-se o quanto antes na lista de emails do Clube de Programação através [deste formulário](https://goo.gl/9vNR7E), utilizando o seu email da UPF. O link da competição será disponibilizado às 18:50.
+A atividade de quinta-feira, às 19:00, será uma competição simulada. É recomendada a presença de todos os participantes do Clube! Caso você não possa comparecer, inscreva-se o quanto antes na lista de emails do Clube de Programação através [deste formulário](https://goo.gl/9vNR7E), utilizando o seu email da UPF. O link da competição será disponibilizado às 18:50.
 
 Que a Força esteja com vocês! :D
 
