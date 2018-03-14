@@ -15,9 +15,9 @@ A importância da digitação rápida decorre de situações rotineiras em que c
 
 O segundo momento da oficina abordou a técnica `split()` para strings em Python, bem como a conversão destas strings para números inteiros, assim permitindo a leitura de mais de uma variável em uma mesma linha. Ainda, foi abordado o *operador ternário* em Python, bastante útil para escrever uma simples expressão *if-else*. O código-fonte do exercício utilizado [URI 2717](https://www.urionlinejudge.com.br/judge/pt/problems/view/2717) será disponibilizado aqui em breve.
 
-A atividade de quinta-feira, às 19:00, será uma competição simulada. É recomendada a presença de todos os participantes do Clube! Caso você não possa comparecer, inscreva-se o quanto antes na lista de emails do Clube de Programação através [deste formulário](https://goo.gl/9vNR7E), utilizando o seu email da UPF. O link da competição será disponibilizado às 18:50.
+**ERRATA**: O simulado que ocorreria nesta quinta-feira, dia 15/03, foi transferido para a semana seguinte, dia 22/03, em razão da Aula Inaugural do PPGCA 2018/1. A palestra, intitulada "Tendências na área de computação móvel e ubíqua aplicada a saúde", será realizada às 19:30, no auditório do ICEG/B5, com o professor Dr. Cristiano André da Costa. 
 
-Que a Força esteja com vocês! :D
+Contamos com a presença de todos!
 
 Curta o [Clube de Programação UPF](https://www.facebook.com/maratonaUPF) no Facebook
 
